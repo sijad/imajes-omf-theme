@@ -7,18 +7,6 @@
 
 > imajes theme for [Oh My Fish][omf-link].
 
-
-## Features
-
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
-
-## Screenshot
-
-<p align="center">
-<img src="{{SCREENSHOT_URL}}">
-</p>
-
 # License
 
 [MIT][mit] © [{{USER}}][author] et [al][contributors]
